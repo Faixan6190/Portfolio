@@ -1,10 +1,12 @@
 import React from "react";
-import { Navbar } from "./components";
+import { About, Hero, Navbar } from "./components";
 
 const App = () => {
   return (
     <>
       <Navbar />
+      <Hero />
+      <About />
     </>
   );
 };
