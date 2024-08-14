@@ -1,12 +1,9 @@
 import React from "react";
-import { About, Hero, Navbar } from "./components";
 
 const App = () => {
   return (
     <>
-      <Navbar />
-      <Hero />
-      <About />
+      <h1 className="text-3xl font-bold underline">Hello world!</h1>
     </>
   );
 };
