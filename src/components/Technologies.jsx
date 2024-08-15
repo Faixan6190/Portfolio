@@ -1,4 +1,3 @@
-import "../index.css";
 import { FaHtml5 } from "react-icons/fa";
 import { DiCss3 } from "react-icons/di";
 import { IoLogoJavascript } from "react-icons/io";
