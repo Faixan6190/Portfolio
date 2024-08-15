@@ -56,8 +56,7 @@ export const PROJECTS = [
   {
     title: "Portfolio Website",
     image: project3,
-    description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
+    description: "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
   },
   {
@@ -70,7 +69,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "House No.B/64",
+  phoneNo: "+923410210708",
+  email: "faixan6190@gmail.com",
 };
