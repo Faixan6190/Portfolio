@@ -20,7 +20,7 @@ const Technologies = () => {
           <DiCss3 className="text-6xl text-sky-600" />
         </div>
         <div className="rounded-2xl border-4 border-neutral-800 p-4">
-          <IoLogoJavascript className="text-6xl text-yellow-600" />
+          <IoLogoJavascript className="text-6xl text-yellow-500" />
         </div>
         <div className="rounded-2xl border-4 border-neutral-800 p-4">
           <SiMongodb className="text-6xl text-green-500" />
