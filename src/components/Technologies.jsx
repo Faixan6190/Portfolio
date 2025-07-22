@@ -6,6 +6,7 @@ import { SiExpress } from "react-icons/si";
 import { RiReactjsLine } from "react-icons/ri";
 import { FaNodeJs } from "react-icons/fa";
 import { SiTypescript } from "react-icons/si";
+import { SiNextdotjs } from "react-icons/si";
 import { motion } from "framer-motion";
 
 const iconVariants = (duration) => ({
@@ -101,6 +102,14 @@ const Technologies = () => {
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
           <SiTypescript className="text-6xl text-sky-600" />
+        </motion.div>
+        <motion.div
+          variants={iconVariants(3.5)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <SiNextdotjs className="text-6xl text-white-600" />
         </motion.div>
       </motion.div>
     </div>
