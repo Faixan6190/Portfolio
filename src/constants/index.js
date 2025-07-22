@@ -3,9 +3,17 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I'm a passionate MERN Stack Developer with a strong focus on frontend development.
+I love crafting clean, responsive, and user-friendly interfaces using React.js and modern web technologies. While I have hands-on experience with backend tools like Node.js and MongoDB, my core strength lies in building sleek, intuitive UIs that bring ideas to life on the web. I'm always eager to learn new technologies and improve my skills to stay up-to-date in the fast-evolving web development world.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a MERN Stack Developer with a strong inclination towards frontend development.
+I specialize in building responsive, accessible, and user-centric web applications using React.js, HTML, CSS, and JavaScript.
+My primary focus lies in delivering clean, modern interfaces that enhance user experience and performance.
+I have a foundational understanding of backend technologies like Node.js and MongoDB, enabling me to contribute across the full stack when needed.
+During my recent internship at Google, I had the opportunity to work on real-world projects and collaborate with experienced professionals.
+I am committed to continuous learning and staying current with evolving technologies to deliver high-quality, scalable web solutions.
+
+`;
 
 export const EXPERIENCES = [
   {
