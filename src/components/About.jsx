@@ -1,6 +1,7 @@
 import profilePic from "../assets/faizanProfile.jpg";
 import { ABOUT_TEXT } from "../constants";
 import { motion } from "framer-motion";
+import { FaDownload } from "react-icons/fa";
 
 const About = () => {
   return (
@@ -28,6 +29,15 @@ const About = () => {
         >
           <div className="flex justify-center lg:justify-start">
             <p className="my-2 max-w-xl py-6">{ABOUT_TEXT}</p>
+          </div>
+          <div className="w-full text-center lg:text-left mt-4">
+            <a
+              href="/Faizan CV New.pdf"
+              download
+              className="inline-flex items-center gap-2 px-4 py-2 bg-[#1a1a25] text-white rounded hover:bg-[#1a1a25] transition"
+            >
+              <FaDownload /> Download CV
+            </a>
           </div>
         </motion.div>
       </div>
